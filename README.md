@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @merylicius
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Web Develpment Projects
+- 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me merylicius@gmail.com
 
 <!---
